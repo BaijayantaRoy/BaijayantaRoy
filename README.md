@@ -10,8 +10,6 @@ Now I'm applying that discipline to a new question:
 
 Payments taught me that trust is engineered, not assumed. AI is no different.
 
-## 🚀 Building now
-
 ### [BandUp](https://github.com/BaijayantaRoy/bandup)
 
 An open AI marking assistant for Singapore exam essays — **PSLE composition and A-Level General Paper**, with more exams coming. Marks against each paper's band rubric, underlines every error with corrections, coaches improvement from the student's own writing — and it's **private by default**: runs fully local, so no essay ever leaves the machine.
