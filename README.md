@@ -12,7 +12,7 @@ Payments taught me that trust is engineered, not assumed. AI is no different.
 
 ### [BandUp](https://github.com/BaijayantaRoy/bandup)
 
-An open AI marking assistant for Singapore exam essays — **PSLE composition and A-Level General Paper**, with more exams coming. Marks against each paper's band rubric, underlines every error with corrections, coaches improvement from the student's own writing — and it's **private by default**: runs fully local, so no essay ever leaves the machine.
+An open source AI marking assistant for Singapore exam essays — **PSLE composition and A-Level General Paper**, with more exams coming. Marks against each paper's band rubric, underlines every error with corrections, coaches improvement from the student's own writing — and it's **private by default**: runs fully local, so no essay ever leaves the machine.
 
 Teachers get their evenings back. Students get unlimited, patient, specific practice. Nobody's child becomes training data.
 
